@@ -1,0 +1,11 @@
+D:\vs\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\vs\MathQuiz\bin\Debug\MathQuiz.exe
+D:\vs\MathQuiz\bin\Debug\MathQuiz.pdb
+D:\vs\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+D:\vs\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+D:\vs\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+D:\vs\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+D:\vs\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+D:\vs\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+D:\vs\MathQuiz\obj\Debug\MathQuiz.exe
+D:\vs\MathQuiz\obj\Debug\MathQuiz.pdb
